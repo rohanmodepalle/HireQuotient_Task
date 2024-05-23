@@ -88,3 +88,5 @@ The API routes can be tested using Postman or any other API testing tool.
 The environment variables for the MongoDB connection string, JWT secret key and LLM API should be set in a .env file in the backend folder.
 
 
+The video can be found in the following drive link:
+https://drive.google.com/drive/folders/1XGhphIIPPW_pf1jHF7JTag1FUk1U1kRt?usp=sharing
